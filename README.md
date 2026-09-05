@@ -35,6 +35,15 @@
 
 如果本项目真的对你有用！请不要吝啬地给作者一个star（和fork那就更好啦！）吧！作者烧了很多钱进去探索出来的这个路径QAQ
 
+## 广告
+
+<div align="center">
+  <img width="5728" height="672" alt="6a6a72933750ba319ce43018069e94eb" src="https://github.com/user-attachments/assets/d193ebf5-d363-46f1-b2fa-cd06007bc00f" />
+
+[IPWO](https://www.ipwo.net/?ref=GitHubAutoTeamF)提供覆盖195+国家和地区的住宅代理、静态住宅代理和不限量住宅代理，支持HTTP、HTTPS及SOCKS5协议。
+适用于ChatGPT、Codex、AI Coding、浏览器自动化及多地区网络访问，为开发者提供灵活的住宅网络环境选择。支持免费测试，专属折扣码：`0205`
+</div>
+
 ## 特性
 
 | | 功能 | 描述 |
